@@ -4,7 +4,7 @@
 -- Sample code is MIT licensed; see https://www.coronalabs.com/links/code/license
 ---------------------------------------------------------------------------------------
 
-local world = display.newImageRect( "world.png", 250, 250 )
+local world = display.newImageRect( "world.png", 150, 150 )
 world.x = display.contentCenterX
 world.y = display.contentCenterY - 30
 
